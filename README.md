@@ -1,3 +1,24 @@
+
+To install and run  :
+
+$ npm install -g create-react-app
+$ npx create-react-app reactapp4
+$ cd reactapp4
+$ npm start
+
+install and ru from here 
+https://www.w3schools.com/react/react_getstarted.asp
+
+edit app.jsx to change it 
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
